@@ -7,3 +7,8 @@
 
 ### Полезные ссылки
 https://git-scm.com/book/ru/v2
+`
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> dev
+`
